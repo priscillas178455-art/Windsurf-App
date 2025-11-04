@@ -99,9 +99,9 @@ out
 # Nuxt.js build / generate output
 .nuxt
 
-# Gatsby files
-.cache/
-public
+# Gatsby files (not applicable for Create React App)
+# .cache/
+# public
 
 # Serverless directories
 .serverless/
